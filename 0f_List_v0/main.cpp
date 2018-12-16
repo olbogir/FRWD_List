@@ -3,9 +3,15 @@
 #include <iomanip>
 #include <ctime>
 
+<<<<<<< HEAD
 //#include "menu.h"
 //#include "init_list.h"
 //#include "delete_list.h"
+=======
+#include "menu.h"
+#include "init_list.h"
+#include "delete_list.h"
+>>>>>>> 4ab7049a0b704cb3565b92fbe31d57d6a50ad37d
 
 // 1 - create flist
 // 2 - add node at the begining of flist
@@ -38,16 +44,11 @@ int main()
 		case 2:
 			//std::cout << item << '\n';
 			//adHead_List ();
-			{
-			}
-
+			{	}
 			break;
-
 		case 3:
 			//std::cout << item << '\n'; break;
 			{}
-
-
 			break;
 		case 4:
 			//std::cout << item << '\n';
