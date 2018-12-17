@@ -24,6 +24,7 @@
 //15 - read data from file
 
 
+
 int main()
 	{
 	//Node *head = new Node;

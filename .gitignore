@@ -17,6 +17,7 @@ object_script.*.Debug
 *.pro
 moc_*.cpp
 moc_*.h
+!*.h
 qrc_*.cpp
 ui_*.h
 *.qmlc
