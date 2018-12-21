@@ -3,8 +3,8 @@
 #include <iomanip>
 #include <ctime>
 
-//#include "menu.h"
-//#include "init_list.h"
+#include "menu.h"
+#include "init_list.h"
 //#include "delete_list.h"
 
 // 1 - create flist
