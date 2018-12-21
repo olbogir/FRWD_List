@@ -6,6 +6,7 @@
 #include "menu.h"
 #include "init_list.h"
 #include "delete_list.h"
+#include "l_sort.h"
 
 // 1 - create flist
 // 2 - add node at the begining of flist
