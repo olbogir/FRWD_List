@@ -7,6 +7,7 @@
 size_t fibonachi_even();
 void factor();
 size_t primul(size_t);
-void palindrom();
+size_t palindrom();
+void manacher(size_t);
 
 #endif // TASKS25_H

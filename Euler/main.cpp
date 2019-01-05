@@ -7,5 +7,7 @@ int main()
 	{
 	//cout << fibonachi_even ()<< endl;
 	//factor ();
+	//palindrom();
+	manacher(3);
 	return 0;
 	}
